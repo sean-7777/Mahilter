@@ -1,0 +1,3 @@
+= Mahilter
+
+Mahilter is a text-based dungeon crawler game, written in Python 3.10.
