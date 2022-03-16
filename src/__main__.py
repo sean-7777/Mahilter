@@ -1,3 +1,3 @@
-from rich import print
+from .index import main
 
-print("[red]hi[/red]")
+main()
